@@ -13,11 +13,12 @@ Deep Learning, Goodfellow
 * ch10 RNN
 
 Stanford CS224W
-Introduction to Graph Structure
+
+* Introduction to Graph Structure
 https://snap-stanford.github.io/cs224w-notes/preliminaries/introduction-graph-structure
-Measuring Networks and random graphs
+* Measuring Networks and random graphs
 https://snap-stanford.github.io/cs224w-notes/preliminaries/introduction-graph-structure
-Motifs and Graphlets
+* Motifs and Graphlets
 https://snap-stanford.github.io/cs224w-notes/preliminaries/motifs-and-structral-roles_lecture
 
 GNN, UPenn ESE 680
