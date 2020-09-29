@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=cWIeTMklzNg&feature=youtu.be
 Learning the Structure of GNN: heidelberg.ai
 https://www.youtube.com/watch?v=9XoCQn34tXo&feature=youtu.be
 
-[GNN Survery Papers] https://github.com/thunlp/GNNPapers#survey-papers
+[GNN Survery Papers] https://github.com/tnakada/GNNPapers#survey-papers
 
 Deep Learning, Goodfellow
 * ch1 introduction
@@ -13,10 +13,9 @@ Deep Learning, Goodfellow
 * ch10 RNN
 
 GNN Current Literature
-https://github.com/naganandy/graph-based-deep-learning-literature#related-workshops
+https://github.com/tnakada/graph-based-deep-learning-literature
 
 Stanford CS224W
-
 * Introduction to Graph Structure
 https://snap-stanford.github.io/cs224w-notes/preliminaries/introduction-graph-structure
 * Measuring Networks and random graphs
@@ -32,3 +31,6 @@ http://networksciencebook.com/
 
 Graph Representation Learning Book
 https://www.cs.mcgill.ca/~wlh/grl_book/
+
+Distance Encoding
+https://arxiv.org/pdf/2009.00142.pdf
