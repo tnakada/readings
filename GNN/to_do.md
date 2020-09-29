@@ -12,6 +12,9 @@ Deep Learning, Goodfellow
 * ch9 CNN
 * ch10 RNN
 
+GNN Current Literature
+https://github.com/naganandy/graph-based-deep-learning-literature#related-workshops
+
 Stanford CS224W
 
 * Introduction to Graph Structure
